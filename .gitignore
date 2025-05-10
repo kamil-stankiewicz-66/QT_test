@@ -54,4 +54,4 @@ compile_commands.json
 *_qmlcache.qrc
 
 # Ignore build folder
-/build/
+/gt_test/build/
