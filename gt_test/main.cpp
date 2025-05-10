@@ -4,6 +4,9 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello World!" << endl;
+    int i = 3;
+    int j = 4.f;
+    cout<< i+j;
+
     return 0;
 }
